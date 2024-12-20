@@ -1,4 +1,4 @@
-package ru.nino.JavaDeployEvol;
+package ru.nino.deploy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

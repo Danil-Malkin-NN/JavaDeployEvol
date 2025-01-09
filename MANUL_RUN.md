@@ -1,9 +1,14 @@
 Тут будет описание и команды которые нужны для ручного деплоя
 ````bash
-gradle clean
+mvn clean
 ````
 
 ````bash
-gradle build
+mvn install
 ````
 
+Или
+
+````bash
+java -jar ./target/deploy-0.0.1-SNAPSHOT.jar
+````
